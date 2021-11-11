@@ -5,6 +5,6 @@
 - 📫 How to reach me : lifefordesign5477@icloud.com
 
 <!---
-John1479P/John1479P is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+John1479P/John1479P is a ✨ special ✨ repository because its `JohnP.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
